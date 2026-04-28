@@ -4,7 +4,6 @@
 
 ![AegisStay](https://img.shields.io/badge/AegisStay-v1.0.0-FF6B4A?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-Latest-FFCA28?style=for-the-badge&logo=firebase)
 
 **Real-time emergency response platform for hotels with AI-driven fire detection, guest evacuation guidance, and staff coordination.**
 
